@@ -31,11 +31,7 @@ A beautiful, full-stack task management web application built as a screening pro
 
 ---
 
-## 🤖 AI Tools Used
 
-- **Antigravity (Google DeepMind)** — Used to scaffold the project, generate components, write CSS design system, implement API routes, and produce this README.
-
----
 
 ## 🚀 Setup Instructions
 
@@ -172,6 +168,4 @@ The Supabase **anon key** is safe to expose on the frontend — it enforces Supa
 
 ---
 
-## 📄 License
 
-MIT
